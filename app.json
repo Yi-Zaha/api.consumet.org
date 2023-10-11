@@ -5,6 +5,7 @@
     "repository": "https://github.com/consumet/consumet-api",
     "logo": "https://consumet.org/images/consumetlogo.png",
     "keywords": ["node", "fastify", "mongodb", "anime", "movies", "books", "manga", "api"],
+    "stack": "container"
     "env": {
         "PORT": {
             "description": "Set PORT for the fastify application to run on.",
