@@ -12,15 +12,18 @@
         },
         "REDIS_HOST": {
             "description": "Set redis host, you can create a redis instance on your own or use upstash (https://upstash.com) its for free.",
-            "value": ""
+            "value": "",
+			"required": false
         },
         "REDIS_PASS": {
             "description": "Set redis password, you can create a redis instance on your own or use upstash (https://upstash.com) its for free.",
-            "value": ""
+            "value": "",
+			"required": false
         },
         "REDIS_PORT": {
             "description": "Set redis port, you can create a redis instance on your own or use upstash (https://upstash.com) its for free.",
-            "value": ""
+            "value": "",
+			"required": false
         }
     }
 }
